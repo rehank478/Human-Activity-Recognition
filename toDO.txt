@@ -1,0 +1,3 @@
+increase the boad rate to minimize scan time
+scan devices individually
+add color to each plot

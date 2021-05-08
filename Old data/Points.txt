@@ -1,0 +1,3 @@
+UART console code be viewed
+tty to COM
+Highest baud rate given 921600
